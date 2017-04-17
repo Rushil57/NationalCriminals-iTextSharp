@@ -1,0 +1,25 @@
+﻿body
+{
+}
+
+.nowrap
+{
+    white-space: nowrap;
+    width: 1%;
+}
+
+
+.dropdown-menu-form
+{
+    overflow-x: hidden !important;
+}
+
+.table > tfoot > tr > th {
+    border-left-width: 0 !important;
+}
+
+.multiselect-container label.checkbox
+{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}

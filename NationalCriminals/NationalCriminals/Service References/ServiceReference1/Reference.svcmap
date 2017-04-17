@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5efe838d-60e1-4845-a960-2e1a842c26d8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:59220/NationalCriminalService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NationalCriminalService.wsdl" MetadataType="Wsdl" ID="2156d6e1-473b-4b6c-a2f6-d117480f1fe1" SourceId="1" SourceUrl="http://localhost:59220/NationalCriminalService.svc?wsdl" />
+    <MetadataFile FileName="NationalCriminalService.disco" MetadataType="Disco" ID="133985c2-6a70-412f-8213-d1c6421c63b9" SourceId="1" SourceUrl="http://localhost:59220/NationalCriminalService.svc?disco" />
+    <MetadataFile FileName="NationalCriminalService.xsd" MetadataType="Schema" ID="757c1c74-445e-4477-9e5b-1b1bb55c8f06" SourceId="1" SourceUrl="http://localhost:59220/NationalCriminalService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NationalCriminalService1.xsd" MetadataType="Schema" ID="47c86180-58cd-4eed-86e1-323707a112dc" SourceId="1" SourceUrl="http://localhost:59220/NationalCriminalService.svc?xsd=xsd1" />
+    <MetadataFile FileName="NationalCriminalService2.xsd" MetadataType="Schema" ID="d20b72c3-1163-45a1-92c8-8f143fc8ff20" SourceId="1" SourceUrl="http://localhost:59220/NationalCriminalService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

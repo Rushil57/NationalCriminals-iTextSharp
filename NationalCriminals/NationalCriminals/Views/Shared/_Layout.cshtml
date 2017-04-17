@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" data-ng-app="MetronicApp">
+<!--<![endif]-->
+<head>
+
+    <title></title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta content="" name="description">
+    <meta content="" name="author">
+    @Styles.Render("~/Content/css")
+    <script src="~/Content/global/plugins/jquery.min.js" type="text/javascript"></script>
+    @Scripts.Render("~/corejquery")
+    <script src="~/Content/global/plugins/jquery-validation/js/jquery.validate.js"></script>
+    <script src="~/Content/global/plugins/bootbox/bootbox.min.js"></script>
+    <link href="~/Content/admin/pages/css/toastr.min.css" rel="stylesheet" />
+    <script src="~/Scripts/toastr.min.js"></script>
+    <link rel="shortcut icon" href="~/favicon.ico">
+</head>
+
+<body class="page-header-fixed page-sidebar-closed-hide-logo page-quick-sidebar-over-content">
+
+    <div class="page-spinner-bar" id="loading" style="display: none">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+
+    <div class="page-header navbar navbar-fixed-top ng-scope">
+        <div class="page-header-inner ng-scope">
+            <div class="page-logo">
+                <a href="#/">
+                    <img src="~/Content/admin/layout/img/logo.png" alt="logo" class="logo-default">
+                </a>
+                <div class="menu-toggler sidebar-toggler">
+                </div>
+            </div>
+            <form class="search-form hide ng-pristine ng-valid" action="#" method="GET">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search..." name="query">
+                    <span class="input-group-btn">
+                        <a href="javascript:;" class="btn submit"><i class="icon-magnifier"></i></a>
+                    </span>
+                </div>
+            </form>
+            <a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse"></a>
+            <div class="top-menu">
+                <ul class="nav navbar-nav pull-right">
+                    <li class="dropdown dropdown-user">
+                        <a href="#" class="dropdown-toggle" dropdown-menu-hover="" data-toggle="dropdown" data-close-others="true">
+                            <img alt="" class="img-circle" src="~/Content/admin/layout/img/avatar3_small.jpg">
+                            <span class="username username-hide-on-mobile">@Session["FirstName"] @Session["LastName"]</span>
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-default">
+                            <li>
+                                <a href="#">
+                                    <i class="icon-user"></i>My Profile
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/Account/SignOut">
+                                    <i class="icon-key"></i>Log Out
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix">
+    </div>
+
+    <div class="page-container">
+        <div class="page-sidebar-wrapper ng-scope">
+            <div class="page-sidebar navbar-collapse collapse ng-scope">
+                <ul class="page-sidebar-menu" data-keep-expanded="false" data-auto-scroll="true" data-slide-speed="200">
+                    <li>
+                        <a href="@Url.Action("Index", "Home")">
+                            <i class="fa fa-home"></i>
+                            <span class="title">Person Search</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="page-content-wrapper">
+            <div class="page-content">
+                @RenderBody()
+                <div data-ui-view="" class="fade-in-up ng-scope">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            Layout.init();
+            Metronic.init();
+            Metronic.setAssetsPath('~/Content/');
+
+            $(document).ajaxStart(function () {
+                $("#loading").show();
+            });
+            $(document).ajaxComplete(function () {
+                $("#loading").hide();
+            });
+
+        });
+    </script>
+</body>
+</html>

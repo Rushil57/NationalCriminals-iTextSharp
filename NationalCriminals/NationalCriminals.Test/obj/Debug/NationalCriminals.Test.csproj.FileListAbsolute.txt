@@ -1,0 +1,46 @@
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\Entities.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\EntityFramework.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\Entities.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\EntityFramework.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.dll.config
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.dll.config
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.Test.pdb
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Mvc.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\Entities.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Optimization.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\EntityFramework.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Razor.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\NationalCriminals.pdb
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.pdb
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\FakeItEasy.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Mvc.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\Entities.pdb
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Optimization.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\EntityFramework.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.Razor.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.csprojResolveAssemblyReference.cache
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.dll
+E:\NationalCriminals\NationalCriminals\NationalCriminals.Test\obj\Debug\NationalCriminals.Test.pdb

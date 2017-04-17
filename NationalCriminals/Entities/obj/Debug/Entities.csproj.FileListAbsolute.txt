@@ -1,0 +1,19 @@
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\Entities.dll.config
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\Entities.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\Entities.pdb
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\obj\Debug\Entities.dll
+C:\Users\Jayesh\Documents\Visual Studio 2012\Projects\NationalCriminals\Entities\obj\Debug\Entities.pdb
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\Entities.dll.config
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\Entities.dll
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\Entities.pdb
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\EntityFramework.dll
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\EntityFramework.xml
+E:\NationalCriminals\NationalCriminals\Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\NationalCriminals\NationalCriminals\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\NationalCriminals\NationalCriminals\Entities\obj\Debug\Entities.dll
+E:\NationalCriminals\NationalCriminals\Entities\obj\Debug\Entities.pdb

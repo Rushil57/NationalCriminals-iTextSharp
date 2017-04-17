@@ -1,0 +1,6 @@
+﻿var account = {
+
+    login: function () {
+      
+    }
+}
